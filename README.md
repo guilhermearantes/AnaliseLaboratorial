@@ -1,7 +1,6 @@
 # Análise Laboratorial
 
-
-##MENU:
+##Menu:
 
 1. [Acesso ao Menu](http://localhost:8081/analise/).
 2. [Área Geral - Visualizar Procedimentos](http://localhost:8081/analise/procedimentos).
@@ -12,38 +11,41 @@
 
 ##Área Geral - Visualizar Procedimentos:
 
-1. [Acesso](http://localhost:8081/analise/procedimentos).
+1. [Acesso à Área Geral](http://localhost:8081/analise/procedimentos).
 2. Funcionalidades:
-3. Relação de Procedimentos - Ordenado por Nome.
-4. CRUD de Procedimentos - Ao clicar no Nome do Procedimento - Add, Edit, Del.
-5. Voltar - ao Menu Inicial.
+
+* Relação de Procedimentos - Ordenado por Nome.
+* CRUD de Procedimentos - Ao clicar no Nome do Procedimento - Add, Edit, Del.
+* Voltar - ao Menu Inicial.
 
 
 
 ##Área do Paciente:
 
-1. [Acesso](http://localhost:8081/analise/pacientes/index_login).
+1. [Acesso à Área do Paciente](http://localhost:8081/analise/pacientes/index_login).
 2. Funcionalidades:
-3. Solicitar um Exame do paciente logado - Inserir o exame e a data.
-4. Lista de Exames Solicitados pelo paciente logado - Ordenado pela data e pelo nome do procedimento.
-5. CRUD de Pacientes - Ao clicar no Nome do Paciente - Add, Edit, Del.
-6. CRUD de Procedimentos - Ao clicar no Nome do Procedimento - Add, Edit, Del.
-7. Voltar - ao Menu Pacientes.
+
+* Solicitar um Exame do paciente logado - Inserir o exame e a data.
+* Lista de Exames Solicitados pelo paciente logado - Ordenado pela data e pelo nome do procedimento.
+* CRUD de Pacientes - Ao clicar no Nome do Paciente - Add, Edit, Del.
+* CRUD de Procedimentos - Ao clicar no Nome do Procedimento - Add, Edit, Del.
+* Voltar - ao Menu Pacientes.
 
 
 ##Área Administrativa: 
 
-1. [Acesso](http://localhost:8081/analise/pages/admin).
+1. [Acesso à Área Administrativa](http://localhost:8081/analise/pages/admin).
 2. Funcionalidades:
-3. Lista de Todos os Exames - Ordenado por data.
-4. Lista de Todos os Pacientes - Ordenado por nome.
-5. Relatórios:
-6. Total Geral - Soma do preço de todos os exames.
-7. Total por Paciente - Relação dos exames por paciente com a quantidade e o preço.
-8. Voltar - ao Menu Administrativo.
+* Lista de Todos os Exames - Ordenado por data.
+* Lista de Todos os Pacientes - Ordenado por nome.
+3. Relatórios:
+* Total Geral - Soma do preço de todos os exames.
+* Total por Paciente - Relação dos exames por paciente com a quantidade e o preço.
+* Voltar - ao Menu Administrativo.
 
 
 ##Sair do Sistema: 
 
-1. [Acesso](http://localhost:8081/analise/pacientes/index_login).
-2. Funcionalidade - Logout do Sistema.
+1. [Acesso à funcionalidade Logout](http://localhost:8081/analise/pacientes/index_login).
+2. Funcionalidade:
+* Logout do Sistema.
