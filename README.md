@@ -36,9 +36,12 @@
 
 1. [Acesso à Área Administrativa](http://localhost:8081/analise/pages/admin).
 2. Funcionalidades:
+
 * Lista de Todos os Exames - Ordenado por data.
 * Lista de Todos os Pacientes - Ordenado por nome.
-3. Relatórios:
+
+3.Relatórios:
+
 * Total Geral - Soma do preço de todos os exames.
 * Total por Paciente - Relação dos exames por paciente com a quantidade e o preço.
 * Voltar - ao Menu Administrativo.
@@ -47,5 +50,6 @@
 ##Sair do Sistema: 
 
 1. [Acesso à funcionalidade Logout](http://localhost:8081/analise/pacientes/index_login).
-2. Funcionalidade:
+2. Funcionalidades:
+
 * Logout do Sistema.
