@@ -4,7 +4,7 @@ Sistemas Web I
 
 MENU: 
 
-1. [Acesso ao Menu via:](http://localhost:8081/analise/).
+1. [Acesso ao Menu](http://localhost:8081/analise/).
 2. [Área Geral - Visualizar Procedimentos](http://localhost:8081/analise/procedimentos).
 3. [Área do Paciente](http://localhost:8081/analise/pacientes).
 4. [Área Administrativa](http://localhost:8081/analise/pages/admin).
@@ -13,7 +13,7 @@ MENU:
 
 Área Geral - Visualizar Procedimentos: 
 
-1. [Acesso via:](http://localhost:8081/analise/procedimentos).
+1. [Acesso](http://localhost:8081/analise/procedimentos).
 2. [Funcionalidades:]
 2.1 [Relação de Procedimentos - Ordenado por Nome]
 2.2 [CRUD de Procedimentos - Ao clicar no Nome do Procedimento - Add, Edit, Del]
@@ -23,7 +23,7 @@ MENU:
 
 Área do Paciente: 
 
-1. [Acesso via:](http://localhost:8081/analise/pacientes/index_login).
+1. [Acesso](http://localhost:8081/analise/pacientes/index_login).
 2. [Funcionalidades:]
 2.1 [Solicitar um Exame do paciente logado - Inserir o exame e a data]
 2.2 [Lista de Exames Solicitados pelo paciente logado - Ordenado pela data e pelo nome do procedimento]
@@ -34,7 +34,7 @@ MENU:
 
 Área Administrativa: 
 
-1. [Acesso via:](http://localhost:8081/analise/pages/admin).
+1. [Acesso](http://localhost:8081/analise/pages/admin).
 2. [Funcionalidades:]
 2.1 [Lista de Todos os Exames - Ordenado por data]
 2.2 [Lista de Todos os Pacientes - Ordenado por nome]
@@ -46,5 +46,5 @@ MENU:
 
 Sair do Sistema: 
 
-1. [Acesso via:](http://localhost:8081/analise/pacientes/index_login).
+1. [Acesso](http://localhost:8081/analise/pacientes/index_login).
 2. [Funcionalidade - Logout do Sistema].
